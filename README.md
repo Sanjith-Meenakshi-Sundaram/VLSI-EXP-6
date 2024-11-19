@@ -105,7 +105,7 @@ For Transient Analysis Settings and Output
 
 
 
- ![vlsi-4final](https://github.com/user-attachments/assets/393fbf94-4323-4178-b5d1-d8dfacc548c3)
+![vlsi-6final](https://github.com/user-attachments/assets/3b64d4ba-66ec-45b4-adfe-11f5af9d1435)
 
 
   
